@@ -1,0 +1,5 @@
+{
+    "companies": ["HubSpot"],
+    "maxAdsPerSearch": 20,
+    "proxyConfiguration": { "useApifyProxy": true, "apifyProxyGroups": ["RESIDENTIAL"] }
+}

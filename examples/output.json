@@ -1,0 +1,50 @@
+{
+    "adId": "1558773703",
+    "adUrl": "https://www.linkedin.com/ad-library/detail/1558773703",
+    "advertiserName": "HubSpot",
+    "advertiserId": "68529",
+    "advertiserType": "company",
+    "advertiserUrl": "https://www.linkedin.com/company/68529",
+    "payer": "HubSpot, Inc.",
+    "adFormat": "Single Image Ad",
+    "creativeType": "SPONSORED_STATUS_UPDATE",
+    "text": "$1M to $100M ARR in 18 months. Stuart Shingler, Legora, on how fast-growth companies build trust while they innovate. London, 17 November.",
+    "headline": "GROW Europe 2026 · London · Register Today",
+    "description": null,
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D4D10AQGshA0JBhq0cA/image-shrink_1280/B4DaDP9g74HMAc-/0/1790195405027/2png?e=2147483647&v=beta&t=uu-v3Wv8B56hQBJAD5VjRRV3DN-EoRbg-UMe2X3kaSk",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D4D10AQGshA0JBhq0cA/image-shrink_1280/B4DaDP9g74HMAc-/0/1790195405027/2png?e=2147483647&v=beta&t=uu-v3Wv8B56hQBJAD5VjRRV3DN-EoRbg-UMe2X3kaSk"
+    ],
+    "videoUrl": null,
+    "videoPosterUrl": null,
+    "clickUrl": "https://www.hubspot.com/grow-europe?utm_source=linkedin&utm_medium=paid&utm_campaign=Marketing_Registrations_EN_EMEA_VARIOUS_GROW-Europe-2026_prospecting_cm1013_ProgramBudget_v1a&utm_id=805100113&hsa_acc=517582366&hsa_cam=805100113&hsa_grp=891556833&hsa_ad=1558773703&hsa_net=linkedin&hsa_ver=3",
+    "messageSender": null,
+    "callToAction": null,
+    "firstShown": "2026-09-23",
+    "lastShown": "2026-09-25",
+    "totalImpressions": "5k-10k",
+    "impressionsLow": 5000,
+    "impressionsHigh": 10000,
+    "impressionsByCountry": [
+        { "country": "United Kingdom", "share": 91 },
+        { "country": "Ireland", "share": 9 }
+    ],
+    "targeting": {
+        "language": { "includes": ["English"], "excludes": [] },
+        "location": { "includes": ["Ireland", "United Kingdom"], "excludes": [] },
+        "parameters": [
+            { "parameter": "Audience", "targeted": false, "excluded": true },
+            { "parameter": "Demographic", "targeted": false, "excluded": false },
+            { "parameter": "Company", "targeted": true, "excluded": true },
+            { "parameter": "Education", "targeted": false, "excluded": false },
+            { "parameter": "Job", "targeted": true, "excluded": false },
+            { "parameter": "Member Interests and Traits", "targeted": false, "excluded": false }
+        ]
+    },
+    "detailsRead": true,
+    "search": "accountOwner \"HubSpot\"",
+    "isNew": null,
+    "charged": true,
+    "reason": "ad with advertiser and content",
+    "scrapedAt": "2026-09-25T12:12:10.512Z"
+}
